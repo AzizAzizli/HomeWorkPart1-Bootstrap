@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+}
+.brand a {
+  color: #fff;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+header {
+  border-bottom: 2px solid #ccc;
+}
+.brand {
+  height: 90px;
+  background-color: #4aaaa5;
+}
+nav {
+  height: 90px;
+}
+nav a {
+  color: #999;
+}
+main {
+  background-image: url(./assets/images/concrete_seamless.png);
+}
+.left-box {
+  background-color: #fff;
+  height: max-content;
+  width: 55%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  color: #777;
+}
+
+.left-box h2 {
+  padding-bottom: 20px;
+  font-size: 30px;
+  border-bottom: 3px solid #ddd;
+  margin: 0 0 20px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+.right-box {
+  background-color: #fff;
+  height: max-content;
+}
+.right-box h3 {
+  padding-bottom: 20px;
+  font-size: 22px;
+  border-bottom: 3px solid #ddd;
+  margin: 0 0 15px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+.images img {
+  width: 62px;
+  height: 62px;
+}
+footer {
+  height: 104px;
+  border-top: 8px solid #4aaaa5;
+  background-color: #666;
+}
+footer h4 {
+  font-size: 12px;
+  color: #ccc;
+}
